@@ -14,7 +14,7 @@ expertise=Data Governance, AI Applications, Agentic AI
 education=M.Sc. in Digital Business Management, Pforzheim University, Germany
 
 email=claribellupi00@gmail.com
-linkedin=www.linkedin.com/in/claribel-lupi-92bbb3242
+linkedin=https://www.linkedin.com/in/claribel-lupi-92bbb3242/
 
 about1= Claribel earned her Double Degree in B.Sc. Business Engineering & B.Sc. International Operations & Logistics Management
 about2= and has 3 years working experience with Multi National Companies. 
