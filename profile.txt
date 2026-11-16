@@ -4,24 +4,23 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Claribel Crystal Lupi
+title1=Top 2% Goat Milk Drinker (2020-2026)
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title2=Working Student in Data Management Program
 
-title2=2024 National Teaching Award Laureate
+expertise=Data Governance, AI Applications, Agentic AI
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+education=M.Sc. in Digital Business Management, Pforzheim University, Germany
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
-
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=claribellupi00@gmail.com
+linkedin=www.linkedin.com/in/claribel-lupi-92bbb3242
 
 about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
 about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
 about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
 about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
 
-phone=+886-2-2737-6754
+phone=+49 162 155 9267
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Stuttgart, Germany
