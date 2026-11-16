@@ -16,10 +16,10 @@ education=M.Sc. in Digital Business Management, Pforzheim University, Germany
 email=claribellupi00@gmail.com
 linkedin=www.linkedin.com/in/claribel-lupi-92bbb3242
 
-about1=Claribel earned her Double Degree in B.Sc. Business Engineering & B.Sc. International Operations & Logistics Management
-about2=and has 3 years working experience with Multi National Companies. 
-about3=Fluent in 3 languages.
-about4=Loves to watch movies. 
+about1= Claribel earned her Double Degree in B.Sc. Business Engineering & B.Sc. International Operations & Logistics Management
+about2= and has 3 years working experience with Multi National Companies. 
+about3=  
+about4=  
 
 phone=+49 162 155 9267
 
